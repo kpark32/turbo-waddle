@@ -27,7 +27,7 @@ from pathlib import Path
 # reload the page → filter for "FeatureServer" or "query?" → copy that URL
 # and paste it as the first entry here.
 ARCGIS_ENDPOINTS = [
-   "https://services6.arcgis.com/yG5s3afENB5iO9fj/ArcGIS/rest/services/Cooling_Center_App_Status_view/FeatureServer/0/query"
+    "https://services6.arcgis.com/yG5s3afENB5iO9fj/arcgis/rest/services/Cool_Options/FeatureServer/0/query",
 ]
 
 QUERY_PARAMS = {
