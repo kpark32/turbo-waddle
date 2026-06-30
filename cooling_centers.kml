@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>NYC Cooling Centers</name><description>Auto-updated from finder.nyc.gov/coolingcenters. Last run: 2026-06-29 13:55 UTC.
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>NYC Cooling Centers</name><description>Auto-updated from finder.nyc.gov/coolingcenters. Last run: 2026-06-30 12:02 UTC.
 🟢 Green = open to all  |  🔴 Red = Older Adults (60+) Only</description><Style id="general"><IconStyle><color>ff00aa00</color><Icon><href>https://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle></Style><Style id="senior"><IconStyle><color>ff0000ff</color><Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9422355851675,40.6786932853283,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9805049085052,40.7197097555206,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9625271225173,40.6926447511651,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9801954965594,40.6382149187885,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9073203776152,40.8389982786504,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7388261201006,40.7110263896659,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9639892809254,40.7918567491677,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9653975346573,40.5751880803477,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8689652408098,40.8284500439615,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8336784557688,40.7486943777806,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8395403259021,40.8854336062823,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9381338823342,40.8416187691144,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 254-51 HORACE HARDING EXPRESSWAY
 🕐 Hours not listed
 📞 (718) 225-0342</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7261175996303,40.7649276181056,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9381996022427,40.7893136946007,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9605679598373,40.7430469432328,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8518100423166,40.7311434225361,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8854930532443,40.6840875522871,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-74.2086278823105,40.5352369408931,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9780429338391,40.6978150397143,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9892294545339,40.7147983683929,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8912341331833,40.7072214681946,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8585686917026,40.8876265647162,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9147344221037,40.8312881611661,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9807668469382,40.7197108801825,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8528097179846,40.8697987194734,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9805734448615,40.645929602039,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8650925884225,40.6740540378831,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9951816033308,40.7101684860919,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.849316307354,40.7411534204852,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9785197987304,40.781813532829,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0038525483244,40.7079308572839,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9461702962633,40.7843434628087,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9409664769561,40.6625746386622,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7881047065175,40.7449050173419,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.901689002445,40.8151670693071,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9109801746761,40.6882601820039,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9192775082235,40.624694653048,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.784098401713,40.7017909726708,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8189606492289,40.7740371558357,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.823800903636,40.7824929516164,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-74.016862091401,40.6263971550375,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9278129894726,40.6802202559843,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9768243262982,40.7173138301126,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8869111076644,40.6349206365874,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9091332306159,40.6726035624572,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9709584732241,40.7822672017234,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0127527537049,40.6127401428149,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7420591903862,40.662089805589,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9857093067019,40.6802424470991,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8974713329665,40.8408895013691,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8619540168234,40.7488919741818,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9606139651789,40.7220594038901,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8952627067261,40.9031037336241,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1190006354554,40.6372149776304,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9383130328451,40.7011024726097,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9466209304657,40.6896801666212,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7698156341891,40.6858515843885,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9974011288579,40.712276286277,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9040044159881,40.8545740747686,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9882381503254,40.7124453937028,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7752288883161,40.6742231536285,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9728777616588,40.667169695212,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.905315435506,40.6783679896483,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9731885874528,40.6808876233779,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9353175486876,40.8064202549868,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9107602255782,40.6861160251464,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8842382267169,40.7623925341979,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.777594242237,40.7823864400526,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8861714120224,40.6655858062962,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7934379035167,40.8680395273762,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8011039397322,40.7158235511911,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7714222508912,40.7711842911961,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8869318625341,40.6557119062301,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1280 LEXINGTON AVENUE
@@ -44,13 +44,9 @@
 🕐 Hours not listed
 📞 (718) 569-3011</description><styleUrl>#general</styleUrl><Point><coordinates>-74.2300315057082,40.5305834042017,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 10 GRAND ARMY PLAZA
 🕐 Hours not listed
-📞 (718) 230-2100</description><styleUrl>#general</styleUrl><Point><coordinates>-73.968375824048,40.6722903783307,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 975 EAST 16 STREET
+📞 (718) 230-2100</description><styleUrl>#general</styleUrl><Point><coordinates>-73.968375824048,40.6722903783307,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 286 CADMAN PLAZA WEST
 🕐 Hours not listed
-📞 (718) 252-0967</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9602720750516,40.6259099180091,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 286 CADMAN PLAZA WEST
-🕐 Hours not listed
-📞 (718) 623-7100</description><styleUrl>#general</styleUrl><Point><coordinates>-73.991439294801,40.6956853506876,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 125 CASSIDY PLACE
-🕐 Hours not listed
-📞 (718) 273-6808</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0964147876489,40.6422602453575,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 378 COURT STREET
+📞 (718) 623-7100</description><styleUrl>#general</styleUrl><Point><coordinates>-73.991439294801,40.6956853506876,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 378 COURT STREET
 🕐 Hours not listed
 📞 (718) 596-1956</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9966776802881,40.6814221137573,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 950 UNION AVENUE
 🕐 Hours not listed
@@ -280,9 +276,7 @@
 🕐 Hours not listed
 📞 (718) 454-6157</description><styleUrl>#general</styleUrl><Point><coordinates>-73.76480415859,40.7250702093709,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2702 LINDEN BOULEVARD
 🕐 Hours not listed
-📞 (347) 663-7770</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8645658512892,40.6687691105972,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 34 WEST 134 STREET
-🕐 Hours not listed
-📞 (212) 926-4871</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9399571531119,40.8126233439268,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 5625 ARLINGTON AVENUE
+📞 (347) 663-7770</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8645658512892,40.6687691105972,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 5625 ARLINGTON AVENUE
 🕐 Hours not listed
 📞 (718) 548-8200 x3479</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9083523209209,40.9050205979578,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 180 MOTT STREET
 🕐 Hours not listed
@@ -310,9 +304,7 @@
 🕐 Hours not listed
 📞 (212) 360-7620 x114</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9451232606632,40.7812759728831,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 9000 SHORE ROAD
 🕐 Hours not listed
-📞 (347) 377-5474</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0396751927842,40.6218349798942,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 23-56 BROADWAY
-🕐 Hours not listed
-📞 (718) 626-1500</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9288078451567,40.7633600741711,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 54-22 SKILLMAN AVENUE
+📞 (347) 377-5474</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0396751927842,40.6218349798942,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 54-22 SKILLMAN AVENUE
 🕐 Hours not listed
 📞 (718) 429-4700</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9097988994915,40.7453493656263,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 92-25 ROCKAWAY BEACH BOULEVARD
 🕐 Hours not listed
@@ -675,9 +667,7 @@
 🕐 Hours not listed
 📞 (718) 849-7150</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8316297976168,40.7008203676156,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 224 EAST 125 STREET
 🕐 Hours not listed
-📞 (212) 534-5050</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9348528811378,40.8030266937161,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 51-23 QUEENS BOULEVARD
-🕐 Hours not listed
-📞 (718) 476-8449</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9131115044686,40.7429064458369,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 144-20 243 STREET
+📞 (212) 534-5050</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9348528811378,40.8030266937161,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 144-20 243 STREET
 🕐 Hours not listed
 📞 (718) 528-8490</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7399083222172,40.6599717578125,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 249-01 NORTHERN BOULEVARD
 🕐 Hours not listed
@@ -703,9 +693,7 @@
 🕐 Hours not listed
 📞 (718) 831-8636</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7148457470239,40.7451449372648,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 291 WEST 231 STREET
 🕐 Hours not listed
-📞 (718) 548-5656</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9077083570342,40.8807292612595,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 476 5 AVENUE
-🕐 Hours not listed
-📞 (917) 275-6975</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9822441050282,40.7532008802151,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2049 ASCH LOOP NORTH
+📞 (718) 548-5656</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9077083570342,40.8807292612595,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2049 ASCH LOOP NORTH
 🕐 Hours not listed
 📞 (718) 379-6700</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8286503144032,40.8705087428625,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 650 WEST 235 STREET
 🕐 Hours not listed
@@ -729,27 +717,17 @@
 🕐 Hours not listed
 📞 (917) 275-6975</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9409540310879,40.8146601701208,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 9 WEST 124 STREET
 🕐 Hours not listed
-📞 (212) 348-5620</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9433022237248,40.8061988680824,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 18 W 53RD STREET
-🕐 Hours not listed
-📞 (212) 714-8400</description><styleUrl>#general</styleUrl><Point><coordinates>-73.977347061583,40.7608259537964,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 127 EAST 58 STREET
+📞 (212) 348-5620</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9433022237248,40.8061988680824,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 127 EAST 58 STREET
 🕐 Hours not listed
 📞 (212) 759-7358</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9693072203164,40.7621291750731,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 66 LEROY STREET
 🕐 Hours not listed
-📞 (212) 243-6876</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0053212284856,40.7299118324187,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 158 BUFFALO AVENUE
+📞 (212) 243-6876</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0053212284856,40.7299118324187,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2125 GLEBE AVENUE
 🕐 Hours not listed
-📞 (718) 756-5250</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9255945875957,40.6740919151632,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2125 GLEBE AVENUE
+📞 (718) 829-1564</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8508591935666,40.8351295093827,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1540 VAN SICLEN AVENUE
 🕐 Hours not listed
-📞 (718) 829-1564</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8508591935666,40.8351295093827,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 930 53 STREET
+📞 (718) 642-1010</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8779685192878,40.6474766606672,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2424 BOSTON ROAD
 🕐 Hours not listed
-📞 (718) 232-3211</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0027343903811,40.6374713893128,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1540 VAN SICLEN AVENUE
-🕐 Hours not listed
-📞 (718) 642-1010</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8779685192878,40.6474766606672,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1000 RICHMOND TERRACE
-🕐 Hours not listed
-📞 (718) 727-1135</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1027287190111,40.6445279294665,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2424 BOSTON ROAD
-🕐 Hours not listed
-📞 (718) 547-8827</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8662309260836,40.8617394601057,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 200 EASTERN PARKWAY
-🕐 Hours not listed
-📞 (718) 638-5000</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9632179294188,40.6707722130124,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 177 DREISER LOOP
+📞 (718) 547-8827</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8662309260836,40.8617394601057,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 177 DREISER LOOP
 🕐 Hours not listed
 📞 (718) 320-1345</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8287002683033,40.8768208137536,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 446 3 AVENUE
 🕐 Hours not listed
@@ -777,7 +755,29 @@
 🕐 Hours not listed
 📞 (718) 375-3037</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9531122924225,40.610260020566,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2298 WEST 8 STREET
 🕐 Hours not listed
-📞 (718) 373-6161</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9787401473421,40.5918600059692,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 720 NEREID AVENUE
+📞 (718) 373-6161</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9787401473421,40.5918600059692,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 530 WEST 133 STREET
+🕐 Hours not listed
+📞 (212) 862-5562</description><styleUrl>#general</styleUrl><Point><coordinates>-73.95452315569,40.8177057574664,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 221 WEST 107 STREET
+🕐 Hours not listed
+📞 (212) 749-8400</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9664765328255,40.8018905787924,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 30 DELANCEY STREET
+🕐 Hours not listed
+📞 (212) 533-2020</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9922590836775,40.7204328024922,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 114 TAYLOR STREET
+🕐 Hours not listed
+📞 (718) 388-9242</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9633646156019,40.7054436179522,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 20 WASHINGTON SQUARE NORTH
+🕐 Hours not listed
+📞 (212) 777-3555</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9977101413618,40.7319714327644,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 483 ALBANY AVENUE
+🕐 Hours not listed
+📞 (718) 774-9213</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9396717001948,40.6634064620827,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 463A 7 STREET
+🕐 Hours not listed
+📞 (718) 832-3726</description><styleUrl>#general</styleUrl><Point><coordinates>-73.980981046969,40.6685256527244,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 350 LIVONIA AVE
+🕐 Hours not listed
+📞 (718) 942-5345</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9044929808839,40.6630188204414,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 360 IRVING AVENUE
+🕐 Hours not listed
+📞 (718) 628-8378</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9122155394767,40.6974852279727,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1664 WEST 13 STREET
+🕐 Hours not listed
+📞 (718) 234-7208</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9862316331738,40.6056973067617,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 125 CASSIDY PLACE
+🕐 Hours not listed
+📞 (718) 273-6808</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0964147876489,40.6422602453575,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 720 NEREID AVENUE
 🕐 Hours not listed
 📞 (718) 994-0132</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8537937422844,40.8979449439411,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1401 FLATBUSH AVENUE
 🕐 Hours not listed
@@ -793,13 +793,15 @@
 🕐 Hours not listed
 📞 (718) 984-8589</description><styleUrl>#general</styleUrl><Point><coordinates>-74.2230199359623,40.5110810784267,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 37-06 111 STREET
 🕐 Hours not listed
-📞 (718) 651-9220</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8572381849394,40.7535896135614,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3208 FULTON STREET
+📞 (718) 651-9220</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8572381849394,40.7535896135614,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1000 RICHMOND TERRACE
 🕐 Hours not listed
-📞 (718) 235-0064 x0070</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8769030993368,40.6820763760354,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 530 WEST 133 STREET
+📞 (718) 727-1135</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1027287190111,40.6445279294665,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3208 FULTON STREET
 🕐 Hours not listed
-📞 (212) 862-5562</description><styleUrl>#general</styleUrl><Point><coordinates>-73.95452315569,40.8177057574664,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 280 RALPH AVENUE
+📞 (718) 235-0064 x0070</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8769030993368,40.6820763760354,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 280 RALPH AVENUE
 🕐 Hours not listed
-📞 (347) 318-3383</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9233690521979,40.6799125021604,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 220-01 LINDEN BOULEVARD
+📞 (347) 318-3383</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9233690521979,40.6799125021604,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 51-23 QUEENS BOULEVARD
+🕐 Hours not listed
+📞 (718) 476-8449</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9131115044686,40.7429064458369,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 220-01 LINDEN BOULEVARD
 🕐 Hours not listed
 📞 (718) 528-8238 x102</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7397605126995,40.6952942521714,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 92-47 165 STREET
 🕐 Hours not listed
@@ -807,17 +809,13 @@
 🕐 Hours not listed
 📞 (646) 576-8669</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9933684404261,40.7466549257462,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3450 DEKALB AVENUE
 🕐 Hours not listed
-📞 (718) 798-6601</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8807338925997,40.881488781099,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 830 HUGUENOT AVENUE
-🕐 Hours not listed
-📞 (718) 984-4636</description><styleUrl>#general</styleUrl><Point><coordinates>-74.193236567345,40.5340657605607,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1001 QUENTIN ROAD
+📞 (718) 798-6601</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8807338925997,40.881488781099,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1001 QUENTIN ROAD
 🕐 Hours not listed
 📞 (718) 627-7680</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9628189491874,40.6080332416719,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 150 MALCOLM X BOULEVARD
 🕐 Hours not listed
 📞 (347) 318-3313</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9306637504443,40.6882678074767,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 910 EAST 172 STREET
 🕐 Hours not listed
-📞 (718) 542-0222</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8901915086749,40.8339242023985,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 221 WEST 107 STREET
-🕐 Hours not listed
-📞 (212) 749-8400</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9664765328255,40.8018905787924,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 236 EAST TREMONT AVENUE
+📞 (718) 542-0222</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8901915086749,40.8339242023985,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 236 EAST TREMONT AVENUE
 🕐 Hours not listed
 📞 (718) 731-6300</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9045938416283,40.8486749426528,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3601 SURF AVENUE
 🕐 Hours not listed
@@ -829,17 +827,15 @@
 🕐 Hours not listed
 📞 (646) 969-2487</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7960863095495,40.6742335496912,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 221-15 HORACE HARDING EXPRESSWAY
 🕐 Hours not listed
-📞 (718) 225-1144</description><styleUrl>#general</styleUrl><Point><coordinates>-73.756731726832,40.7498863358927,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 309 NEW DORP LANE
+📞 (718) 225-1144</description><styleUrl>#general</styleUrl><Point><coordinates>-73.756731726832,40.7498863358927,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2521 GLEBE AVENUE
 🕐 Hours not listed
-📞 (718) 351-2977</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1119583116193,40.5719398011945,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2521 GLEBE AVENUE
+📞 (718) 863-0436</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8464406525971,40.8412236800259,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 476 5 AVENUE
 🕐 Hours not listed
-📞 (718) 863-0436</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8464406525971,40.8412236800259,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 280 WYCKOFF STREET
+📞 (917) 275-6975</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9822441050282,40.7532008802151,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 280 WYCKOFF STREET
 🕐 Hours not listed
 📞 (718) 237-1802</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9834380087862,40.682906298172,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 355 EAST 183 STREET
 🕐 Hours not listed
-📞 (347) 270-1709</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8964180274752,40.8564744894781,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1580 ROCKAWAY PARKWAY
-🕐 Hours not listed
-📞 (718) 257-6547</description><styleUrl>#general</styleUrl><Point><coordinates>-73.899523468541,40.6422164842046,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 18-36 BELL BOULEVARD
+📞 (347) 270-1709</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8964180274752,40.8564744894781,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 18-36 BELL BOULEVARD
 🕐 Hours not listed
 📞 (718) 529-1590</description><styleUrl>#general</styleUrl><Point><coordinates>-73.777014562085,40.7825359680072,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 31-32 UNION STREET
 🕐 Hours not listed
@@ -855,38 +851,32 @@
 🕐 Hours not listed
 📞 (718) 471-3110</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7418773006321,40.5953171148846,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 120 WEST 140 STREET
 🕐 Hours not listed
-📞 (347) 919-5072</description><styleUrl>#general</styleUrl><Point><coordinates>-73.940034323894,40.8176341089024,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 30 DELANCEY STREET
-🕐 Hours not listed
-📞 (212) 533-2020</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9922590836775,40.7204328024922,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 50-37 NEWTOWN ROAD
+📞 (347) 919-5072</description><styleUrl>#general</styleUrl><Point><coordinates>-73.940034323894,40.8176341089024,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 50-37 NEWTOWN ROAD
 🕐 Hours not listed
 📞 (718) 932-6916</description><styleUrl>#general</styleUrl><Point><coordinates>-73.91071932099,40.7538465900728,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 166-01 LINDEN BOULEVARD
 🕐 Hours not listed
-📞 (718) 658-0980</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7830930335162,40.6903428841894,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 42-15 166 STREET
+📞 (718) 658-0980</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7830930335162,40.6903428841894,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 34 WEST 134 STREET
 🕐 Hours not listed
-📞 (718) 886-8203</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8001382880317,40.7590001058813,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 114 TAYLOR STREET
+📞 (212) 926-4871</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9399571531119,40.8126233439268,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 42-15 166 STREET
 🕐 Hours not listed
-📞 (718) 388-9242</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9633646156019,40.7054436179522,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1130 GRAND CONCOURSE
+📞 (718) 886-8203</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8001382880317,40.7590001058813,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1130 GRAND CONCOURSE
 🕐 Hours not listed</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9187771650806,40.8325534678526,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 930 HALSEY STREET
 🕐 Hours not listed
-📞 (347) 425-0676</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9170089923756,40.6853809594274,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 20 WASHINGTON SQUARE NORTH
+📞 (347) 425-0676</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9170089923756,40.6853809594274,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 23-56 BROADWAY
 🕐 Hours not listed
-📞 (212) 777-3555</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9977101413618,40.7319714327644,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 660 SOUNDVIEW AVENUE
+📞 (718) 626-1500</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9288078451567,40.7633600741711,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 660 SOUNDVIEW AVENUE
 🕐 Hours not listed
 📞 (718) 589-0880</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8628903897292,40.8187157615891,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 204 EAST 23 STREET
 🕐 Hours not listed
 📞 (646) 395-8083</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9827449178039,40.7383554918529,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 89-02 91 STREET
 🕐 Hours not listed
-📞 (718) 847-9200</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8532782011424,40.6904326161759,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 415 EAST HOUSTON STREET
-🕐 Hours not listed
-📞 (212) 673-2290</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9796199845888,40.7190880820034,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1077 CONEY ISLAND AVENUE
+📞 (718) 847-9200</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8532782011424,40.6904326161759,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1077 CONEY ISLAND AVENUE
 🕐 Hours not listed
 📞 (718) 434-3266 x135</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9662178419839,40.631339946341,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 106-20 SHORE FRONT PARKWAY
 🕐 Hours not listed
 📞 (718) 634-3044</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8271094934888,40.5813782729383,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1960 EAST 7 STREET
 🕐 Hours not listed
-📞 (718) 449-5000 x2821</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9652157491044,40.6028464816393,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1265 43 STREET
-🕐 Hours not listed
-📞 (718) 437-4085</description><styleUrl>#general</styleUrl><Point><coordinates>-73.989011716818,40.6388862957784,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 15 BAY RIDGE AVENUE
+📞 (718) 449-5000 x2821</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9652157491044,40.6028464816393,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 15 BAY RIDGE AVENUE
 🕐 Hours not listed
 📞 (718) 748-0650</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0350214299112,40.638738240311,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 515 JACKSON AVENUE
 🕐 Hours not listed
@@ -896,15 +886,7 @@
 🕐 Hours not listed
 📞 (718) 671-5161</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8224089821844,40.8646110225241,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 4101 8 AVENUE
 🕐 Hours not listed
-📞 (917) 922-8382</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9983282454302,40.6459031260126,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 93 ST EDWARDS STREET
-🕐 Hours not listed
-📞 (718) 935-0244</description><styleUrl>#general</styleUrl><Point><coordinates>-73.977737012628,40.6944941214148,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 483 ALBANY AVENUE
-🕐 Hours not listed
-📞 (718) 774-9213</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9396717001948,40.6634064620827,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 463A 7 STREET
-🕐 Hours not listed
-📞 (718) 832-3726</description><styleUrl>#general</styleUrl><Point><coordinates>-73.980981046969,40.6685256527244,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 303 AVENUE X
-🕐 Hours not listed
-📞 (718) 382-5792</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9718104202087,40.5905523078825,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 211 AINSLIE STREET
+📞 (917) 922-8382</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9983282454302,40.6459031260126,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 211 AINSLIE STREET
 🕐 Hours not listed
 📞 (718) 963-3793</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9455465425129,40.713140370831,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 319 STANHOPE STREET
 🕐 Hours not listed
@@ -918,7 +900,9 @@
 🕐 Hours not listed
 📞 (718) 933-6410</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8878942185425,40.8543523087246,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1625 OCEAN AVENUE
 🕐 Hours not listed
-📞 (718) 253-0508</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9553585562659,40.6223350692661,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 47 VANDALIA AVENUE
+📞 (718) 253-0508</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9553585562659,40.6223350692661,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 158 BUFFALO AVENUE
+🕐 Hours not listed
+📞 (718) 756-5250</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9255945875957,40.6740919151632,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 47 VANDALIA AVENUE
 🕐 Hours not listed
 📞 (718) 272-3949</description><styleUrl>#general</styleUrl><Point><coordinates>-73.88703338686,40.6502542933103,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3035 MIDDLETOWN ROAD
 🕐 Hours not listed
@@ -954,9 +938,9 @@
 🕐 Hours not listed
 📞 (718) 438-7771</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9716381543204,40.6271997214534,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 137-57 FARMERS BOULEVARD
 🕐 Hours not listed
-📞 (718) 978-8352</description><styleUrl>#general</styleUrl><Point><coordinates>-73.763771932697,40.6725579430019,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 350 LIVONIA AVE
+📞 (718) 978-8352</description><styleUrl>#general</styleUrl><Point><coordinates>-73.763771932697,40.6725579430019,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 930 53 STREET
 🕐 Hours not listed
-📞 (718) 942-5345</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9044929808839,40.6630188204414,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 120 ANDERSON AVENUE
+📞 (718) 232-3211</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0027343903811,40.6374713893128,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 120 ANDERSON AVENUE
 🕐 Hours not listed
 📞 (718) 448-5757</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1345143422869,40.6346971771319,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 27-40 HOYT AVENUE SOUTH
 🕐 Hours not listed
@@ -964,13 +948,13 @@
 🕐 Hours not listed
 📞 (718) 319-9156</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8487827334297,40.8193114731637,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3304 CLARENDON ROAD
 🕐 Hours not listed
-📞 (718) 282-1259</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9455211459968,40.6431689247211,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 2147 BARNES AVENUE
-🕐 Hours not listed
-📞 (718) 829-5864</description><styleUrl>#general</styleUrl><Point><coordinates>-73.8641465081612,40.8548838871896,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3000 FILLMORE AVENUE
+📞 (718) 282-1259</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9455211459968,40.6431689247211,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3000 FILLMORE AVENUE
 🕐 Hours not listed
 📞 (718) 336-0275</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9374442051854,40.6078646945688,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 430 DUMONT AVENUE
 🕐 Hours not listed
-📞 (718) 385-1110</description><styleUrl>#general</styleUrl><Point><coordinates>-73.903045851594,40.664636365401,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3001 WEST 37 STREET
+📞 (718) 385-1110</description><styleUrl>#general</styleUrl><Point><coordinates>-73.903045851594,40.664636365401,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 200 EASTERN PARKWAY
+🕐 Hours not listed
+📞 (718) 638-5000</description><styleUrl>#general</styleUrl><Point><coordinates>-73.9632179294188,40.6707722130124,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 3001 WEST 37 STREET
 🕐 Hours not listed
 📞 (718) 449-6363</description><styleUrl>#general</styleUrl><Point><coordinates>-74.0021673135755,40.5727439702046,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 143-22 109 AVENUE
 🕐 Hours not listed
@@ -978,7 +962,9 @@
 🕐 Hours not listed
 📞 (718) 356-8113</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1836140257763,40.5657890389978,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 169-65 137 AVENUE
 🕐 Hours not listed
-📞 (718) 525-2800</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7712148919238,40.6746387491796,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1466 MANOR ROAD
+📞 (718) 525-2800</description><styleUrl>#general</styleUrl><Point><coordinates>-73.7712148919238,40.6746387491796,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 18 W 53RD STREET
+🕐 Hours not listed
+📞 (212) 714-8400</description><styleUrl>#general</styleUrl><Point><coordinates>-73.977347061583,40.7608259537964,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1466 MANOR ROAD
 🕐 Hours not listed
 📞 (718) 475-5284</description><styleUrl>#general</styleUrl><Point><coordinates>-74.1264781512694,40.5948279155851,0</coordinates></Point></Placemark><Placemark><name>Cooling Center - Cooling Center</name><description>📍 1694 OCEAN AVENUE
 🕐 Hours not listed
